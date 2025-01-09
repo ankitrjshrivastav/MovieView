@@ -1,7 +1,7 @@
 # My-Moviess
 
-All movie with Genre Filter Features :
-lication![Screenshot 1946-10-19 at 12 33 23 PM](https://github.com/user-attachments/assets/fefb36ad-0892-4b2f-a552-e03c130a8a1a)
+All movie with Genre Filter Features with **OMDb API**:
+![Screenshot 1946-10-19 at 12 33 23 PM](https://github.com/user-attachments/assets/fefb36ad-0892-4b2f-a552-e03c130a8a1a)
 
 
 Saved paage :
@@ -17,7 +17,7 @@ Features
 * Built using React. 
 * Responsive design ensuring usability on mobile, tablet, and desktop devices. 
 2. Movie Data Integration
-* Utilizes the TMDB API to fetch movie data. 
+* Utilizes the **OMDb API** to fetch movie data. 
 * Displays movie titles, poster images, and release years on the homepage. 
 3. Search Functionality on other pages
 * Dynamic search feature allowing users to search for movies by title. 
@@ -42,7 +42,7 @@ Steps to Run the Application
 3. Install dependencies: npm install
    
 * React Framework: Chosen for its component-based architecture, ease of use, and strong community support. 
-* TMDB API: Provides comprehensive movie data and is easy to integrate. 
+* **OMDb API**: Provides comprehensive movie data and is easy to integrate. 
 * Responsive Design: Ensures the application is usable on all devices. 
 * Accessibility: Prioritized to make the application usable for all users. 
 Possible Improvements
