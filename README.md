@@ -1,9 +1,14 @@
 # My-Moviess
 
-![Screenshot 1946-10-19 at 12 34 14 PM](https://github.com/user-attachments/assets/c9c2565a-b057-48b9-929b-7b80f30c22fd)
-
-Movie Browser Web App![Screenshot 1946-10-19 at 12 33 53 PM](https://github.com/user-attachments/assets/ca663f61-73bd-487f-aee4-44e3b48490c9)
+All movie with Genre Filter Features :
 lication![Screenshot 1946-10-19 at 12 33 23 PM](https://github.com/user-attachments/assets/fefb36ad-0892-4b2f-a552-e03c130a8a1a)
+
+
+Saved paage :
+Movie Browser Web App![Screenshot 1946-10-19 at 12 33 53 PM](https://github.com/user-attachments/assets/ca663f61-73bd-487f-aee4-44e3b48490c9)
+
+Search Page :
+![Screenshot 1946-10-19 at 12 34 14 PM](https://github.com/user-attachments/assets/c9c2565a-b057-48b9-929b-7b80f30c22fd)
 
 Project Description
 The Movie Browser is a web application designed to allow users to browse, search, and filter movies from a public movie API. Users can also save their favorite movies locally. The application is built with responsiveness and accessibility in mind, ensuring a seamless experience across devices and for users with disabilities.
